@@ -5,6 +5,7 @@
 - [threatcrowd.org](https://ci-www.threatcrowd.org/) - DNS and Subdomain Enumaration + Cartography.
 - [dnsdumpster.com](https://dnsdumpster.com/) - DNS and Subdomain Recon.
 - [who.is](https://who.is/) - DNS Recon.
+- [viewdns.info](https://viewdns.info/) - Several DNS tools.
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - WHOIS, DNS, Check fiability.
 
 ## 🛠️ Tools

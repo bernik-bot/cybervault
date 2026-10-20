@@ -21,7 +21,6 @@
 - [SimpleX](https://simplex.chat/)
 - [Keybase](https://keybase.io/)
 - [qTOX](https://qtox.github.io/)
-- [Quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS.
 - [terminalphone](https://github.com/Meritpayselection234/terminalphone) - Send encrypted voice and text messages via Tor hidden services in bash.
 
 ## 🔀 XMPP
@@ -29,6 +28,11 @@
 - [creep.im](https://creep.im)
 - [darknet.im](https://darknet.im/)
 - [404 City](https://www.404.city/)
+
+## 👥 P2P
+
+- [Bitmessage](https://wiki.bitmessage.org/)
+- [Quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS.
 
 ## 📤 Sharing
 

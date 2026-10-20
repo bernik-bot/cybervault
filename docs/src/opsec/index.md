@@ -7,7 +7,11 @@
 - [Digital Defense](https://digital-defense.io/) - Personal Security Checklist.
 - [OPSEC - OSINT Tools](https://github.com/xeniode/opsec-search-tools)
 - [OPSEC - OSINT List & Guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+
+## 🧩 Services
+
 - [Riseup](https://riseup.net/) - Privacy-focused services (VPN, email, chat).
+- [Dis root](https://disroot.org) - Privacy-focused services (communication, files, search, translate, vault and more).
 
 ## 🧑 SockPuppet
 
