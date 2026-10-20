@@ -2,7 +2,7 @@
 
 ## 📚 Learning
 
-- [Follow this cheatsheet](/resources/learning/cybersecurity/)
+- [Follow this cheatsheet](../resources/learning/cybersecurity/index.md)
 
 ## 🔗 Resources
 
@@ -12,6 +12,7 @@
 - [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - Blog, resources.
 - [PentesterLand](https://pentester.land/) - Writeups, exploit, references, and much more.
 - [Zenk Security](https://repo.zenk-security.com/) - Repository (Reverse, Crypto, Forensic, Book & much more)
+- [h4ckfl1x](https://h4ckfl1x.com/) - Security Conference Archive.
 
 ### 🔵 Blue Team
 

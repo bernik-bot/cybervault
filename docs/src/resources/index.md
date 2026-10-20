@@ -6,7 +6,7 @@
 
 ## 👾 Cybersecurity
 
-- [Follow this cheatsheet](/cybersecurity/index.md#🔗-resources)
+- [Follow this cheatsheet](../cybersecurity/index.md#🔗-resources)
 
 ### 🔎 Audit
 
