@@ -1,5 +1,7 @@
 # 💼 Workbench
 
+- [nosignups.net](https://nosignups.net/) - Open Source Tools. No Signups. Right in your browser.
+
 ## 🧠 Knowledge & Note-Taking
 
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source Notion alternative with AI integration.

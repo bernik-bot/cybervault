@@ -6,6 +6,7 @@
 - [DNM Bible](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/)
 - [The OpSec Manual](http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion/)
 - [OpSec Guide & Resources](https://whos-zycher.github.io/opsec-guide/)
+- [anonymousplanet.net](https://anonymousplanet.net/guide/) - The Hitchhiker's Guide to Online Anonymity (and Privacy)
 - [Crypto OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 ## 📖 Handbook

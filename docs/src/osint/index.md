@@ -7,6 +7,7 @@
 - [Bellingcat (resources)](https://bellingcat.gitbook.io/toolkit/) - Gitbook with investigation methods, tools listing (references guides & Handbooks).
 - [Resource Discovery Toolkit](https://rr.reuser.biz/)
 - [Awesome Osint](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
+- [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - Toolkit One command installer
 - [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - Collection of tools.
 - [Osint Stuff](https://github.com/cipher387/osint_stuff_tool_collection) | [start.me](https://start.me/p/b5Aow7/asint_collection) - Stuff tools collection.
 - [start.me](https://start.me/p/L1rEYQ/osint4all) | [start.me](https://start.me/p/vjqXe1/toposint-com) - Resources List (Very complete).

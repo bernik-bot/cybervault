@@ -10,3 +10,7 @@
 ## 📱 Front End
 
 - [invidious](https://invidious.nerdvpn.de/) - Alternative to youtube front-end.
+
+## Personal Datas
+
+- [Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
