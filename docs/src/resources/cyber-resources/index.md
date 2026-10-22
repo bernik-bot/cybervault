@@ -22,6 +22,7 @@
 - [Korben (FR)](https://korben.info) - Multiple news topics (cyber, hardware, developement and more).
 - [Une tasse de café (FR)](https://une-tasse-de.cafe/)
 - [globalsecuritymag.fr (FR)](https://www.globalsecuritymag.fr/) - Actuality, exploits, (interviews, investigations).
+- [adamcouch.co.uk](https://www.adamcouch.co.uk/) - Pentest, Hardenings, Reverse and more.
 - [Open Source Security](https://opensourcesecurity.io/)
 - [blog.0x12darkdev.net](https://blog.0x12darkdev.net/)
 - [Telekom Security](https://github.security.telekom.com/)
