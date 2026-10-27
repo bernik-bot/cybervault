@@ -26,3 +26,22 @@ html .Layout .VPNav .VPNavBar.home .divider {
     -webkit-backdrop-filter: saturate(160%) blur(14px);
   }
 }
+
+.VPNav .VPNavBar.home,
+.VPNav .VPNavBar.home .title,
+.VPNav .VPNavBar.home .content-body {
+  background-color: transparent;
+}
+
+.VPNav .VPNavBar.home .divider-line,
+.VPNav .VPNavBar.home .divider {
+  background-color: transparent;
+}
+
+@media (min-width: 960px) {
+  .VPNav .VPNavBar.home:not(.top) {
+    background-color: color-mix(in srgb, var(--vp-c-bg) 72%, transparent);
+    backdrop-filter: saturate(160%) blur(14px);
+    -webkit-backdrop-filter: saturate(160%) blur(14px);
+  }
+}
