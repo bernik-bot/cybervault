@@ -95,7 +95,8 @@ onBeforeUnmount(() => {
 .hero {
   position: relative;
   overflow: hidden;
-  padding: 96px 24px 72px;
+  margin-top: calc(-1 * var(--vp-nav-height));
+  padding: calc(96px + var(--vp-nav-height)) 24px 72px;
   text-align: center;
   isolation: isolate;
 }
@@ -299,7 +300,7 @@ onBeforeUnmount(() => {
 
 @media (max-width: 640px) {
   .hero {
-    padding: 64px 16px 48px;
+    padding: calc(48px + var(--vp-nav-height)) 16px 48px;
   }
 
   .prompt-keys {

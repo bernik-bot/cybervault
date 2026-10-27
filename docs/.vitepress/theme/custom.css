@@ -1,7 +1,28 @@
-.VPNavBarSearchButton {
-  border: 1px solid var(--vp-c-divider);
+@media (min-width: 768px) {
+  .VPNavBarSearchButton {
+    border: 1px solid var(--vp-c-divider);
+  }
+
+  .VPNavBarSearchButton:hover {
+    border-color: var(--vp-c-brand-1);
+  }
 }
 
-.VPNavBarSearchButton:hover {
-  border-color: var(--vp-c-brand-1);
+html .Layout .VPNav .VPNavBar.home,
+html .Layout .VPNav .VPNavBar.home .title,
+html .Layout .VPNav .VPNavBar.home .content-body {
+  background-color: transparent;
+}
+
+html .Layout .VPNav .VPNavBar.home .divider-line,
+html .Layout .VPNav .VPNavBar.home .divider {
+  background-color: transparent;
+}
+
+@media (min-width: 960px) {
+  html .Layout .VPNav .VPNavBar.home:not(.top) {
+    background-color: color-mix(in srgb, var(--vp-c-bg) 72%, transparent);
+    backdrop-filter: saturate(160%) blur(14px);
+    -webkit-backdrop-filter: saturate(160%) blur(14px);
+  }
 }
