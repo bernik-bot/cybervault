@@ -8,7 +8,7 @@ import DomainCard from "./DomainCard.vue";
   <section id="domains" class="domains">
     <header class="domains-head">
       <p class="kicker">// browse by domain</p>
-      <h2>Seven disciplines, one vault</h2>
+      <h2>Many sections, one vault</h2>
     </header>
 
     <div class="grid">
