@@ -121,7 +121,12 @@ onBeforeUnmount(() => {
   width: 720px;
   height: 420px;
   transform: translateX(-50%);
-  background: radial-gradient(closest-side, rgba(99, 102, 241, 0.35), rgba(56, 189, 248, 0.12), transparent);
+  background: radial-gradient(
+    closest-side,
+    color-mix(in srgb, var(--vp-c-brand-1) 35%, transparent),
+    color-mix(in srgb, var(--cv-blue) 12%, transparent),
+    transparent
+  );
   filter: blur(40px);
 }
 
@@ -149,14 +154,14 @@ onBeforeUnmount(() => {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #10b981;
-  box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.6);
+  background: var(--cv-green);
+  box-shadow: 0 0 0 0 color-mix(in srgb, var(--cv-green) 60%, transparent);
   animation: pulse 2.4s infinite;
 }
 
 @keyframes pulse {
-  70% { box-shadow: 0 0 0 8px rgba(16, 185, 129, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+  70% { box-shadow: 0 0 0 8px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
 }
 
 .title {
@@ -169,7 +174,12 @@ onBeforeUnmount(() => {
 }
 
 .title-accent {
-  background: linear-gradient(120deg, #818cf8 10%, #38bdf8 60%, #2dd4bf 100%);
+  background: linear-gradient(
+    120deg,
+    var(--vp-c-brand-1) 10%,
+    var(--cv-blue) 60%,
+    var(--cv-teal) 100%
+  );
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;

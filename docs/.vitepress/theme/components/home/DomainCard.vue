@@ -20,7 +20,6 @@ function track(event) {
   <article
     class="card"
     :class="{ wide: domain.span > 1 }"
-    :style="{ '--accent': domain.accent }"
     @pointermove="track"
   >
     <div class="card-head">
@@ -71,7 +70,7 @@ function track(event) {
   inset: 0;
   background: radial-gradient(
     360px circle at var(--x, 50%) var(--y, 0%),
-    color-mix(in srgb, var(--accent) 16%, transparent),
+    color-mix(in srgb, var(--vp-c-brand-1) 16%, transparent),
     transparent 70%
   );
   opacity: 0;
@@ -80,7 +79,7 @@ function track(event) {
 }
 
 .card:hover {
-  border-color: color-mix(in srgb, var(--accent) 55%, var(--vp-c-divider));
+  border-color: color-mix(in srgb, var(--vp-c-brand-1) 55%, var(--vp-c-divider));
   transform: translateY(-3px);
 }
 
@@ -104,8 +103,8 @@ function track(event) {
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  background: color-mix(in srgb, var(--accent) 14%, transparent);
-  color: var(--accent);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 14%, transparent);
+  color: var(--vp-c-brand-1);
 }
 
 .card-icon svg {
@@ -147,12 +146,12 @@ function track(event) {
 }
 
 .card:has(.card-link:focus-visible) {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
 
 .card-arrow {
-  color: var(--accent);
+  color: var(--vp-c-brand-1);
   opacity: 0;
   transform: translateX(-6px);
   transition: opacity 0.25s, transform 0.25s;
@@ -196,8 +195,8 @@ function track(event) {
 }
 
 .card-pages a:hover {
-  border-color: var(--accent);
-  color: var(--accent);
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
 }
 
 @media (max-width: 960px) {
