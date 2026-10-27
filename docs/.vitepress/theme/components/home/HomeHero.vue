@@ -3,7 +3,7 @@ import { computed, onBeforeUnmount, onMounted, ref } from "vue";
 import { data } from "../../vault.data.js";
 import { domains } from "./domains.js";
 
-const queries = ["shodan", "ghidra", "temporary email", "c2 framework", "google dorks", "volatility"];
+const queries = ["shodan", "offensive security", "opsec", "osint", "google dorks", "learning"];
 const query = ref(queries[0]);
 const isMac = ref(false);
 

@@ -32,8 +32,7 @@
   border-top: none;
 }
 
-.vp-doc h1 + h2,
-.vp-doc .overview + h2 {
+.vp-doc h1 + h2 {
   margin-top: 40px;
 }
 
