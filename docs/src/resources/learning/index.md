@@ -1,3 +1,7 @@
+---
+title: "Learning"
+---
+
 # 📚 Learning
 
 - [Harvard's CS50's](https://www.edx.org/cs50)

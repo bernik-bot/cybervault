@@ -1,3 +1,7 @@
+---
+title: "Threat Intelligente"
+---
+
 # 👾 Threat Intelligente
 
 ## 🔗 Resources
@@ -15,3 +19,8 @@
 - [GreyNoise](https://viz.greynoise.io) - Detect attacks on edge systems in real-time.
 - [Ransomware Live](https://www.ransomware.live/) - API, Press, Statistics, Ransom Notes, Groups & much more.
 - [SOCRadar](https://socradar.io/) - Early warning system against hackers (Resources, Tools). <Badge type="tip" text="Freemium"/>
+
+## 🔵 Blue Team & CSIRT
+
+- [Awesome CSIRT](https://github.com/Spacial/awesome-csirt) - CVEs, Red / Blue Team, Social Engineering, Post Exploit, Mobile, RF.
+- [APTnotes](https://github.com/aptnotes/data) - Repository of public resources related to malicious activities of APT groups.

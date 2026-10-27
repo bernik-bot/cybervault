@@ -29,6 +29,7 @@ export default defineConfig({
       capitalizeFirst: true,
       capitalizeEachWords: true,
       useTitleFromFrontmatter: true,
+      useFolderTitleFromIndexFile: true,
     }),
   },
 });

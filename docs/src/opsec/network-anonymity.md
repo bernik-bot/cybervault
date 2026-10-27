@@ -1,18 +1,4 @@
-# ⚙️ System & Access
-
-## 💻 Operating System
-
-- [Tails](https://tails.net/)
-- [Qubes OS](https://www.qubes-os.org/)
-- [Whonix](https://www.whonix.org/wiki/About)
-- [KickSecure](https://www.kicksecure.com/wiki/About)
-- [GrapheneOS](https://grapheneos.org/)
-- [HiddenVM](https://github.com/aforensics/HiddenVM)
-
-### Configuration
-
-- [privacy.sexy](https://privacy.sexy/) - Collection of scripts to enforce privacy & security.
-- [EasyList](https://easylist.to/) - Lists are sets of rules for AD blocker in browser.
+# 🌐 Network Anonymity
 
 ## 🌐 Browsing
 
@@ -20,6 +6,8 @@
 - [I2P](https://geti2p.net/en/)
 - [Hyphanet](https://www.hyphanet.org/)
 - [deWeb](https://massa.network/deweb)
+- [i2pd](https://i2pd.website/) - I2P Deamon.
+- [NIPE](https://github.com/htrgouvea/nipe) - CLI tool to make Tor your default gateway.
 
 ### 🌍 Browser
 
@@ -62,6 +50,8 @@
 - [ProtonVPN](https://protonvpn.com/)
 - [IVPN](https://www.ivpn.net/en/)
 - [AirVPN](https://airvpn.org/)
+- [Gluetun](https://github.com/qdm12/gluetun) - Lightweight swiss-army-knife-like VPN client to multiple VPN service providers.
+- [SSHuttle](https://github.com/sshuttle/sshuttle) - VPN over SSH.
 
 ### 🌐 DNS
 
@@ -78,11 +68,3 @@
 - [proxyscrape](https://proxyscrape.com/free-proxy-list)
 - [proxynova](https://www.proxynova.com/proxy-server-list/)
 - [way2proxy](https://way2proxy.com/free-proxy-list/)
-
-## 🖧 Servers
-
-- [Serveo](https://serveo.net/) - Port forwarding via ssh.
-- [Ngrok](https://ngrok.com/) - Port forwarding.
-- [privex](https://www.privex.io/) - VPS.
-- [1984](https://1984.hosting/) - VPS.
-- [infinityfree](https://infinityfree.com/) - Free web server to host a php site.

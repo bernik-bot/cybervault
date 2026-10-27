@@ -1,5 +1,0 @@
----
-title: "Embedded"
----
-
-# 🧠 Embedded

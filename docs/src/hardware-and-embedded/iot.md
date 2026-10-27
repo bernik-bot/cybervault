@@ -4,6 +4,14 @@ title: "IoT"
 
 # 🤖 IoT
 
+- [IoT HackBot](https://github.com/BrownFineSecurity/iothackbot) - Collection of Claude Skills / tooling for IoT pentesting.
+
+## Tools
+
+- [Qiling](https://github.com/qilingframework/qiling) - Advanced binary emulation framework.
+- [Genzai](https://github.com/umair9747/Genzai) - IoT security toolkit scanner.
+- [ESPTerminator](https://espterminator.com/)
+
 ## 📚 Course
 
 - [IoT Hacking - A Primer](https://scispace.com/pdf/iot-hacking-a-primer-3jsqt2d7wy.pdf)
@@ -20,13 +28,7 @@ title: "IoT"
 
 - [Autodesk Instructables](https://www.instructables.com/circuits/projects) - Hardware circuit building guide.
 
-## 🛠️ Tools
-
-> [!tip]
-> Refer to this cheatsheet **[`IoT Tools`](/tools/embedded/iot.md)**
-
 ## 🐬 Flipper
 
 - [Awesome FlipperZero](https://github.com/djsime1/awesome-flipperzero)
 - [Flipper stuff](https://github.com/UberGuidoZ/Flipper/tree/main)
-https://espterminator.com/

@@ -1,3 +1,7 @@
+---
+title: "Digital Forensics"
+---
+
 # 🕵️ Digital Forensics
 
 ## 📌 General

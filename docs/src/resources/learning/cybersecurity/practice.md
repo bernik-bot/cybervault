@@ -21,6 +21,7 @@
 - [VulnHub](https://www.vulnhub.com/) - Downloadable VMs and ready to be hacked. <Badge type="danger" text="#advanced"/>
 - [Vulhub](https://vulhub.org/) | [github](https://github.com/vulhub/vulhub/) - Pre-built vulnerable environments based on docker.
 - [VulNyx](https://vulnyx.com/) - Downloadable VMs and ready to be hacked.
+- [CreedCTF](https://creed-ctf.fr/) - Over 140 vulnerable virtual machines.
 
 ## 💸 BugBounty
 

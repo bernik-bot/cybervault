@@ -1,4 +1,4 @@
-# 👾 Offensive
+# 🧰 Knowledge Base
 
 ## 🗂️ Resources
 
@@ -10,6 +10,16 @@
 - [RedTeaming Tactics and Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques)
 - [Orange Cyber Defense MindMaps](https://orange-cyberdefense.github.io/ocd-mindmaps/) - AD mindmap.
 
+## 🔗 General Resources & Blogs
+
+- [blackhatethicalhacking.com](https://www.blackhatethicalhacking.com/) - Several resources (Articles, Tools, Infosec News).
+- [isc.sans.edu](https://isc.sans.edu/) - Podcast, Tools, Datas collegtings with honey pots and others.
+- [InfoCon](https://infocon.org/) - Documentaries, podcast, word-lists and more. <Badge type="info" text="#learning"/>
+- [Black Hills InfoSec](https://www.blackhillsinfosec.com/) - Blog, resources.
+- [PentesterLand](https://pentester.land/) - Writeups, exploit, references, and much more.
+- [Zenk Security](https://repo.zenk-security.com/) - Repository (Reverse, Crypto, Forensic, Book & much more)
+- [h4ckfl1x](https://h4ckfl1x.com/) - Security Conference Archive.
+
 ## 🆆 Knowledge Base / Wiki
 
 - [HackIndex](https://hackindex.io/platforms) - knowledge base for penetration testers.
@@ -18,6 +28,19 @@
 ### ⚙️ Tools
 
 - [Metasploit](https://docs.metasploit.com/)
+
+## 🛠️ Tool Directories
+
+- [Red Security](https://red-security.fr) - Link base, Blog.
+- [OFFSEC Tools](https://offsec.tools/) - Vast listing of security tools.
+- [CyberSources](https://www.cybersources.site/) / [Github](https://github.com/bst04/CyberSources) - Top-rated tools and guides from the community.
+- [Rawsec's](https://inventory.raw.pm/) - Inventory of several resources & tools.
+- [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+- [PentestTools](https://github.com/arch3rPro/PentestTools) - Tools list (Info gathering, Vuln analysis, Web, Wireless and more).
+- [Pentest-Tools](https://github.com/pathakabhi24/Pentest-Tools) - Tools list (AD, Network, Post Exploit and more).
+- [CybersecTools](https://cybersectools.com/) - The Largest Platform to Find Cybersecurity Tools.
+- [Inventory](https://inventory.raw.pm/tools.html) - Tools list.
+- [lolol.farm](https://lolol.farm/) - A great collection of resources to thrive off the land.
 
 ## 📖 Handbook
 

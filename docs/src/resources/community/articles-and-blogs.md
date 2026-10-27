@@ -1,11 +1,10 @@
-# 💻👾 Cybersecurity Resources
+# ✍️ Articles & Blogs
 
-## 📌 General
+- [Awesome security research](https://github.com/g3rzi/awesome-security-research)
+- [CyberSec blogs lists](https://github.com/netbiosX/CyberSec-Blogs)
+- [https://projectzero.google](https://projectzero.google/archive.html) - Security researchers team at Google about zero-day.
 
-- [Wired](https://www.wired.com/category/security/) - World news related to cybersecurity.
-- [Hackaday](https://hackaday.io/) - Collaborative hardware development community (Courses, Discover, Stack).
-
-## 📰 Articles - News
+## 📰 Articles & News
 
 - [Zataz](https://www.zataz.com/) - <Badge type="info" text="#news"/>
 - [Data Security Breach](https://www.datasecuritybreach.fr/) - <Badge type="info" text="#news"/>
@@ -17,7 +16,7 @@
 - [podalirius.net](https://podalirius.net/en/) - <Badge type="info" text="#learning"/>
 - [acceis (FR)](https://www.acceis.fr/) - <Badge type="danger" text="#hacking"/><Badge type="info" text="#learning"/>
 
-## ✍️ Blog
+## ✍️ Blogs
 
 - [Korben (FR)](https://korben.info) - Multiple news topics (cyber, hardware, developement and more).
 - [Une tasse de café (FR)](https://une-tasse-de.cafe/)
@@ -42,3 +41,12 @@
 - [Talos](https://blog.talosintelligence.com/) - Exploit demonstrations.
 - [0xdf](https://0xdf.gitlab.io/) - CTF write-up.
 - [codelivly](https://codelivly.com/blog/)
+
+## 🔬 Researcher Blogs
+
+- [arzedlab](https://arzedlab.github.io/)
+- [ash](https://bikini.github.io/) - Exploits, research.
+- [chocapikk](https://chocapikk.com/) - Articles, exploits, research.
+- [Rewrite Lab](https://research.rewritelab.org/) - Research team focused on web security vulnerabilities.
+- [nu11secur1ty](https://www.nu11secur1ty.com/) [(github)](https://github.com/nu11secur1ty) - Exploits, CVE.
+- [corelan](https://www.corelan.be/index.php/articles/) - Exploit learning, research, articles.

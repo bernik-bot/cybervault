@@ -2,9 +2,9 @@
   <div class="cv-grid">
     <SectionCard
       icon="👾"
-      title="Cybersecurity"
-      description="Cybersecurity resources."
-      href="/cybersecurity/"
+      title="Offensive Security"
+      description="Exploitation, post-exploitation, social engineering and pentesting."
+      href="/offensive-security/"
     />
 
     <SectionCard
@@ -22,13 +22,6 @@
     />
 
     <SectionCard
-      icon="🧰"
-      title="Tools"
-      description="Curated cybersecurity tools categorized by use case."
-      href="#"
-    />
-
-    <SectionCard
       icon="🧠"
       title="Threat Intelligence"
       description="Threat actors, TTPs, and intelligence resources."
@@ -36,9 +29,23 @@
     />
 
     <SectionCard
+      icon="🕵️"
+      title="Digital Forensics"
+      description="Forensic tools, binary analysis and steganography."
+      href="/digital-forensics/"
+    />
+
+    <SectionCard
+      icon="🔧"
+      title="Hardware & Embedded"
+      description="Firmware dumping, reverse engineering and IoT security."
+      href="/hardware-and-embedded/"
+    />
+
+    <SectionCard
       icon="📚"
       title="Resources"
-      description="Books, research, cheat-sheets, blogs and educational materials."
+      description="Learning, community, knowledge base and digital library."
       href="/resources/"
     />
   </div>

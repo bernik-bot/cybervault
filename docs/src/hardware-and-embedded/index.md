@@ -1,4 +1,8 @@
-# 🛠️ Hardware Hacking
+---
+title: "Hardware & Embedded"
+---
+
+# 🔧 Hardware & Embedded
 
 > [!NOTE]
 > Binary exploitation, reverse engineering, hardware hacking (IOT, Mobile) and a lot of more.

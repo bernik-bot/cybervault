@@ -1,3 +1,7 @@
+---
+title: "OSINT"
+---
+
 # 🕵️‍♀️ OSINT
 
 ## 📚 Resources & Stuff Collection

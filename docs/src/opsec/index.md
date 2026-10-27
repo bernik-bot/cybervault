@@ -1,3 +1,7 @@
+---
+title: "Opsec"
+---
+
 # 🕶️ Operation Security (OpSec)
 
 ## 🔗 Resource

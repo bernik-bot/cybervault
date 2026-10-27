@@ -1,29 +1,14 @@
+---
+title: "Resources"
+---
+
 # 📚 Resources
 
-- [trackawesomelist.com](https://www.trackawesomelist.com/) - Track Awesome List Updates Daily.
-- [awesome.ecosyste.ms](https://awesome.ecosyste.ms/) - Awesome List for ALL.
-- [stephane-robert.info](https://blog.stephane-robert.info/) - DevSecOps repo (DevSec, sys, net, security, Cloud & much more).
+Ressources transverses (apprentissage, communauté, bibliothèque numérique, knowledge base, workbench) qui ne sont pas propres à une seule discipline infosec.
 
-## 👾 Cybersecurity
-
-- [Follow this cheatsheet](../cybersecurity/index.md#🔗-resources)
-
-### 🔎 Audit
-
-- [ewokk.github.io (FR)](https://ewokk.github.io/Pilote/) - ISO, DORA, NIST, NIS2 & much more (standars & references, courses, lexical, sensibilisation).
-
-## 🛡️ Information Security (InfoSec)
-
-- [InfoSec Reference](https://rmusser.net/docs/#/) - Several categories & references about infosec (very complete).
-- [InfoSec House](https://infosec.house/) - Several resources about cybersecurity.
-- [InfoSec Notes](https://notes.qazeer.io/) - InfoSec, Pentesting, Red Teaming.
-- [Infosec Resources](https://github.com/pathakabhi24/Infosec-Resources) - Blog, YTB channels, Documentaries.
-- [Infosec Tools (list)](https://shellsharks.com/infosec-tools) - (OSINT, Offensive, Blue / Red Team, Enum and much more).
-
-## 🗂️ Misc Resources
-
-- [WifiMap](https://www.wifimap.io) - Reference public wifi based on location.
-- [ifixit](https://www.ifixit.com/) - Repair guides for every thing, written by everyone.
-- [API Mega List](https://github.com/cporter202/API-mega-list) - Powerhouse collection of APIs.
-- [Public APIs](https://github.com/public-apis/public-apis) | [publicapis.io](https://publicapis.io/) - A collective list of free APIs .
-- [Leaked system prompt repository](https://github.com/elder-plinius/)
+- [Knowledge Base](./knowledge-base.md)
+- [Learning](./learning/index.md)
+- [Community](./community/index.md)
+- [Digital Library](./digital-library.md)
+- [Workbench](./workbench.md)
+- [Misc Resources](./misc.md)
