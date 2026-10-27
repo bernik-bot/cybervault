@@ -1,19 +1,18 @@
 ---
-title: 🏛️ CyberVault
+layout: page
+isHome: true
+title: CyberVault
 titleTemplate: Structured Cybersecurity Knowledge Base
-category: intro
-# editLink: false
-# lastUpdated: false
 ---
 
 <script setup>
-import HeroSection from '../.vitepress/theme/components/HeroSection.vue'
-import HomeSections from '../.vitepress/theme/components/HomeSections.vue'
-import FooterSection from '../.vitepress/theme/components/FooterSection.vue'
+import HomeHero from '../.vitepress/theme/components/home/HomeHero.vue'
+import HomeDomains from '../.vitepress/theme/components/home/HomeDomains.vue'
+import HomeFooter from '../.vitepress/theme/components/home/HomeFooter.vue'
 </script>
 
-<HeroSection />
+<HomeHero />
 
-<HomeSections id="sections" />
+<HomeDomains />
 
-<FooterSection />
+<HomeFooter />

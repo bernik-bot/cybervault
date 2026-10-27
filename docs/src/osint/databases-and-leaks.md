@@ -16,6 +16,7 @@ title: "Databases & Leaks"
 
 - [GitSint](https://gitsint.rs/) - Automated online tool to investigate gihub and gitlab repository.
 - [Grep App](https://grep.app/) - Search leaked code on GitHub repositories.
+- [veloria.dev](https://veloria.dev/searches) - Search WordPress Source Code (regex, version etc...)
 - [searchcode.com](https://searchcode.com/) - Code search engine (GitHub, GitLab, Bitbucket).
 - [publicwww.com](https://publicwww.com) - Source code search engine, find websites using specific keywords.
 - [OpenBuckets](https://openbuckets.io/) - Find exposed buckets (AWS, Azure, IBM and much more).

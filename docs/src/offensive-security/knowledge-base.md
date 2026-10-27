@@ -38,6 +38,7 @@
 - [Awesome Bugbounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [PentestTools](https://github.com/arch3rPro/PentestTools) - Tools list (Info gathering, Vuln analysis, Web, Wireless and more).
 - [Pentest-Tools](https://github.com/pathakabhi24/Pentest-Tools) - Tools list (AD, Network, Post Exploit and more).
+- [Hacking Tools](https://github.com/aw-junaid/Hacking-Tools/)
 - [CybersecTools](https://cybersectools.com/) - The Largest Platform to Find Cybersecurity Tools.
 - [Inventory](https://inventory.raw.pm/tools.html) - Tools list.
 - [lolol.farm](https://lolol.farm/) - A great collection of resources to thrive off the land.

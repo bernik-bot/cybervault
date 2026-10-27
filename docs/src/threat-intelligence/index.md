@@ -1,8 +1,8 @@
 ---
-title: "Threat Intelligente"
+title: "Threat Intelligence"
 ---
 
-# 👾 Threat Intelligente
+# 👾 Threat Intelligence
 
 ## 🔗 Resources
 
