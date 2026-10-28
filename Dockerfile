@@ -1,5 +1,8 @@
 FROM node:20-alpine AS builder
 
+# git: VitePress reads each page's last commit date for the "Last updated" footer
+RUN apk add --no-cache git
+
 WORKDIR /app
 
 COPY package*.json ./

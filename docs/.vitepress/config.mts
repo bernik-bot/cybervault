@@ -9,6 +9,8 @@ export default defineConfig({
 
   title: "CyberVault",
   cleanUrls: true,
+  // Page dates come from `git log`: the build needs git and the .git directory
+  lastUpdated: true,
 
   head: [
     ["link", { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" }],
@@ -23,6 +25,11 @@ export default defineConfig({
           find: /^.*\/VPNavBarExtra\.vue$/,
           replacement: fileURLToPath(new URL("./theme/components/NavBarExtra.vue", import.meta.url)),
         },
+        {
+          // "Last updated" date at the bottom of pages, formatted as dd/mm/yy
+          find: /^.*\/VPDocFooterLastUpdated\.vue$/,
+          replacement: fileURLToPath(new URL("./theme/components/LastUpdated.vue", import.meta.url)),
+        },
       ],
     },
   },
@@ -33,6 +40,10 @@ export default defineConfig({
     editLink: {
       pattern: "https://github.com/n3pt0x/cybervault/edit/main/docs/src/:path",
       text: "Suggest an edit",
+    },
+
+    lastUpdated: {
+      text: "Last updated",
     },
 
     search: {
